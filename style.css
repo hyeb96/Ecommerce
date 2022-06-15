@@ -104,7 +104,6 @@ nav a {
     width: 300px;
     font-size: 13px;
     padding: 30px;
-    position: relative;
     left: 20%;
 }
 
@@ -164,35 +163,23 @@ footer {
 }
 
 .fa-facebook {
-    background: #3B5998;
-    color: white;
+    color: #4d6c9d;
 }
 
 .fa-instagram {
-    background: linear-gradient(to bottom, #6600ff 0%, #ffcc00 100%);
-    color: white;
+    color: #4d6c9d;
 }
 
 .fa-twitter {
-    background: #65ade0;
-    color: white;
+    color: #4d6c9d;
 }
 
 .fa-pinterest {
-    background: #eb2424;
-    color: white;
+    color: #4d6c9d;
 }
 
 .fa-youtube {
-    background: #ff0a0a;
-    color: white;
-}
-
-.sr-only {
-    font-size: 0;
-    height: 1px;
-    overflow: hidden;
-    display: block;
+    color: #4d6c9d;
 }
 
 @media screen and (max-width:800px) {
